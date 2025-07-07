@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I’m Avantika 👋
 
-<!--
-**SheCodesAI/SheCodesAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI/ML developer currently learning Python and Computer Science through CS50 and Great Learning. I'm passionate about using technology to solve real-world problems and build meaningful tools.
 
-Here are some ideas to get you started:
+### 🌱 Current Learning
+- Harvard’s CS50x
+- Python basics and OOP
+- Intro to AI and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects In Progress
+- Python practice repo
+- CS50 final project (TBD)
+- Personal AI/ML mini-projects
+
+### 📫 Contact
+- Email: [avanirajput67@gmail.com]
+- GitHub: [SheCodesAI](https://github.com/SheCodesAI)
