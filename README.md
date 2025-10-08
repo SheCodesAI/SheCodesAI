@@ -1,17 +1,26 @@
-### Hi, I’m Avantika 👋
+# 👋 Hi, I'm Avantika
 
-I'm an aspiring AI/ML developer currently learning Python and Computer Science through CS50 and Great Learning. I'm passionate about using technology to solve real-world problems and build meaningful tools.
+I’m learning **Python** and building a solid foundation in **AI and Machine Learning**.  
+Right now, I’m focused on understanding concepts step by step through **Codédex** and creating small, practical projects along the way.
 
-### 🌱 Current Learning
-- Harvard’s CS50x
-- Python basics and OOP
-- Intro to AI and Machine Learning
+I’m curious about technology and enjoy building tools that can help people in real life, especially women.
+
+---
+
+### 🌱 Currently Learning
+- Python fundamentals and OOP  
+- Git & GitHub for collaborative coding  
+- Math and problem-solving for AI/ML foundations  
+
+---
 
 ### 💻 Projects In Progress
-- Python practice repo
-- CS50 final project (TBD)
-- Personal AI/ML mini-projects
+- Python mini-projects (automation, small tools, CLI apps)  
+- GitHub practice repo (learning version control)  
+- Upcoming: data analysis and AI projects once foundations are strong  
+
+---
 
 ### 📫 Contact
-- Email: [avanirajput67@gmail.com]
+- Email: avantika.codes.ai@gmail.com  
 - GitHub: [SheCodesAI](https://github.com/SheCodesAI)
