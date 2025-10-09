@@ -23,4 +23,4 @@ I’m curious about technology and enjoy building tools that can help people in 
 
 ### 📫 Contact
 - Email: avantika.codes.ai@gmail.com  
-- GitHub: [SheCodesAI](https://github.com/SheCodesAI)
+- GitHub: [AvaniCodesAI](https://github.com/AvaniCodesAI)
