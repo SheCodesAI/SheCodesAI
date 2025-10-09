@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Avantika
 
 I’m learning **Python** and building a solid foundation in **AI and Machine Learning**.  
-Right now, I’m focused on understanding concepts step by step through **Codédex** and creating small, practical projects along the way.
+Right now, I’m focused on understanding concepts step by step through **Codédex** (My Buddy on this long Joureny:D) and creating small, practical projects along the way.
 
 I’m curious about technology and enjoy building tools that can help people in real life, especially women.
 
